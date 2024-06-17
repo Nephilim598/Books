@@ -1,0 +1,14 @@
+https://httpd.apache.org/docs/2.4/tr/howto/
+
+https://www.twaino.com/en/blog/website-creation/apache-server-2/#Chapter_4_Apache_Installation_and_Configuration
+
+
+
+
+
+
+
+
+
+
+
